@@ -1,6 +1,6 @@
 # PassWord-Generator
 
-A secure and user-freidnly password generator application built with Python and Tkinter. This applications allows users to generate a secure, customizable password and copy it to the clipbpard with ease. 
+A secure and user-freindly password generator application built with Python and Tkinter. This applications allows users to generate a secure, customizable password and copy it to the clipbpard with ease. 
 
 ## Features
 - Generate passwords with customizable length (1-20 characters)
